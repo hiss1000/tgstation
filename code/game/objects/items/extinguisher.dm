@@ -7,7 +7,8 @@
 	inhand_icon_state = "fire_extinguisher"
 	hitsound = 'sound/weapons/smash.ogg'
 	obj_flags = CONDUCTS_ELECTRICITY
-	throwforce = 10
+	/// Secondary change to throwforce, to test commits to already existing branch
+	throwforce = 300
 	w_class = WEIGHT_CLASS_NORMAL
 	throw_speed = 2
 	throw_range = 7
